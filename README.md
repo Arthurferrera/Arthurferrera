@@ -1,4 +1,4 @@
-## Eai, tranquilo? Prazer, sou o Arthur Ferreira, fique a vontado para navegar em meus repositórios 🚀 😉
+## Eai, tranquilo? Prazer, sou o Arthur Ferreira 🚀 😉
 
 <a href="https://github.com/Arthurferrera" id="link-perfil" style="text-decoration: none !important;">
  <div>
