@@ -1,6 +1,6 @@
 ## Eai, tranquilo? Prazer, sou o Arthur Ferreira 🚀 😉
 
-<a href="https://github.com/Arthurferrera" id="link-perfil" style="text-decoration: none !important;">
+
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurferrera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurferrera&layout=compact&langs_count=16&theme=dracula"/>
@@ -20,8 +20,6 @@
 
   </div>
  
- </a>
-  
   ##
  
 <div> 
